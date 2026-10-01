@@ -1,0 +1,6 @@
+{
+  "name": "Catálogo Interactivo Ultra HD & Admin WhatsApp",
+  "description": "Catálogo de productos interactivo con resolución HD, zoom óptico, pedidos directos a WhatsApp, panel administrativo completo y asistencia con IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

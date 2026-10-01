@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="96" fill="#fbcfe8"/>
+  <rect x="32" y="32" width="448" height="448" rx="72" fill="#064e3b"/>
+  <rect x="64" y="64" width="384" height="384" rx="48" fill="#ffffff" stroke="#fbcfe8" stroke-width="8"/>
+  <rect x="144" y="144" width="224" height="224" rx="32" fill="#fbcfe8" stroke="#064e3b" stroke-width="6"/>
+  <text x="256" y="230" font-family="'Playfair Display', serif" font-size="72" font-weight="900" fill="#064e3b" text-anchor="middle">L'A</text>
+  <text x="256" y="310" font-family="'Playfair Display', serif" font-size="72" font-weight="900" fill="#064e3b" text-anchor="middle">MI</text>
+</svg>
